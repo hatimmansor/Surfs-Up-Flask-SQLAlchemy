@@ -1,7 +1,7 @@
 # Surfs Up:
 In this project I have covert two tasks:
-  * Using Python SQLAlchemy to do basic climate analysis and data exploration of climate database (`min, max, max, avg, count and plot`)
-  * Using Python Flask to return some JSON data using API calls
+  * Using Python `SQLAlchemy` to do basic climate analysis and data exploration of climate database (`min`, `max`, `max`, `avg`, `count` and `plot`)
+  * Using Python `Flask` to return some `JSON` data using `API` calls
 
 # Data Source:
 Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910, https://doi.org/10.1175/JTECH-D-11-00103.1
@@ -20,7 +20,7 @@ Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overv
      
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/24882457/169629609-1f33d467-17be-45b4-a25b-81f341e00e18.png" width=550 height=350></td>
+    <td><img src="https://user-images.githubusercontent.com/24882457/169629609-1f33d467-17be-45b4-a25b-81f341e00e18.png" width=250 height=350></td>
     <td><img src="https://user-images.githubusercontent.com/24882457/169629678-bc89b302-d6c7-4c3d-a1ae-dc18cef8b1db.png" width=550 height=350></td>
     
   </tr>
