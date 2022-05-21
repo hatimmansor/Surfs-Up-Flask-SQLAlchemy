@@ -25,12 +25,13 @@ Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overv
     
   </tr>
   <tr>
-   <th style="text-align:center" colspan="2">Heat Map that display every City Humidity</td>
+   <th style="text-align:center" colspan="2">Flask Code Snapshot</td>
   </tr>
     <tr>
-    <td colspan="2"><img src="https://user-images.githubusercontent.com/24882457/169547628-2d5028ec-9917-41af-96e1-e51ea9ab87d5.png" width=1000 height=350></td>
+    <td colspan="2"><img src="https://user-images.githubusercontent.com/24882457/169629879-5fed3280-0aa9-4e6e-845b-746fafa26371.png" width=1000 height=350></td>
   </tr>
 </table>
+
 
 
 
